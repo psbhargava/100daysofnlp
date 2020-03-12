@@ -15,6 +15,6 @@
 # Day15_WordSimilarity
 # Day16_Regex
 # Day17_CBoW
-# Day18_Skip-gram
-# Day19_POS-Tagging
-# Day20_Chunking
+#Day18_Skip-gram
+Day19_POS-Tagging
+Day20_Chunking
